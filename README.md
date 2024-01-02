@@ -102,6 +102,56 @@ Organização e Estruturação: A POO fornece uma maneira natural de organizar e
 
 __________________________________________
 
+__________________________________________
+
+## Desafio 3:
+Entender o básico a respeito do protocolo de comunicação mais utilizado da internet, e a partir desses princípios ser capaz de implementar suas próprias controllers a fim de se comunicar com uma aplicação de front-end, um micro serviço ou outros tipos de aplicações.
+__________________________________________
+
+#### O que é o protocolo de comunicação HTTP e como ele funciona:
+
+O Protocolo de Transferência de Hipertexto (HTTP) é um protocolo de comunicação usado para a transferência de informações na World Wide Web. Funciona como um conjunto de regras que define como as mensagens são formatadas e transmitidas, permitindo a comunicação entre clientes (como navegadores web) e servidores.
+
+__________________________________________
+
+
+#### O que é REST, e qual é a sua relação com o protocolo HTTP:
+
+REST é um estilo arquitetural para o design de sistemas distribuídos. Ele se baseia nos princípios de simplicidade, escalabilidade e statelessness. REST utiliza os métodos HTTP (GET, POST, PUT, DELETE) para realizar operações em recursos identificados por URLs. A relação com o protocolo HTTP está na utilização de seus métodos e na representação dos recursos através de URLs.
+
+__________________________________________
+
+#### O que é Web API, e qual é a sua relação com REST:
+
+Uma Web API é uma interface que permite a comunicação e a interação entre sistemas pela internet. Ela utiliza os princípios do REST para expor funcionalidades e dados, sendo acessada por meio do protocolo HTTP. A relação entre Web API e REST está na implementação dos padrões RESTful para facilitar a comunicação e manipulação de recursos através da web.
+
+__________________________________________
+
+### Métodos de solicitações HTTP utilizados pelo padrão REST e suas respectivas finalidades:
+
+- GET:
+Finalidade: Recuperação de dados ou informações de um recurso especificado pela URL. O método GET não deve causar efeitos colaterais no servidor.
+
+- POST:
+Finalidade: Submissão de dados para serem processados a um recurso especificado pela URL. É frequentemente utilizado para criar um novo recurso no servidor.
+
+- PUT:
+Finalidade: Atualização de um recurso existente ou criação de um recurso se ele não existir. O corpo da requisição contém os dados atualizados.
+
+- DELETE:
+Finalidade: Remoção de um recurso identificado pela URL. Indica que o cliente deseja excluir o recurso especificado.
+
+
+- PATCH:
+Finalidade: Aplicação parcial de modificações a um recurso. É utilizado para atualizar apenas parte dos dados de um recurso.
+
+__________________________________________
+
+### O que é Swagger:
+
+O Swagger é uma ferramenta que simplifica a documentação, teste e consumo de APIs. Ele gera automaticamente uma interface interativa na web, permitindo que desenvolvedores visualizem e testem endpoints de API diretamente no navegador. Isso facilita a compreensão e a colaboração em projetos que envolvem APIs RESTful.
+
+__________________________________________
 
 Desenvolvido por [Thaís Alencar](https://www.linkedin.com/in/alencartha)
 
