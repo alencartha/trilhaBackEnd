@@ -102,7 +102,6 @@ Organização e Estruturação: A POO fornece uma maneira natural de organizar e
 
 __________________________________________
 
-__________________________________________
 
 ## Desafio 3:
 Entender o básico a respeito do protocolo de comunicação mais utilizado da internet, e a partir desses princípios ser capaz de implementar suas próprias controllers a fim de se comunicar com uma aplicação de front-end, um micro serviço ou outros tipos de aplicações.
