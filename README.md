@@ -107,7 +107,3 @@ Desenvolvido por [Thaís Alencar](https://www.linkedin.com/in/alencartha)
 
 
 
- git push --set-upstream origin desafio2
-
-Desenvolvido por [Thaís Alencar](https://www.linkedin.com/in/alencartha)
-
