@@ -152,6 +152,52 @@ O Swagger é uma ferramenta que simplifica a documentação, teste e consumo de 
 
 __________________________________________
 
+## Desafio 4:
+
+Abstrair os conceitos de banco de dados.
+
+###  O que é JDBC:
+
+JDBC, que significa Java Database Connectivity, é uma API (Interface de Programação de Aplicações) em Java que permite que programas Java interajam com bancos de dados. Em termos simples, o JDBC fornece uma maneira padronizada para que aplicativos Java enviem consultas SQL e atualizem bancos de dados relacionais.
+
+__________________________________________
+
+###  O que é ORM, 3 exemplos:
+
+ORM, ou Mapeamento Objeto-Relacional, é uma técnica de programação que permite a interação mais intuitiva entre bancos de dados relacionais e linguagens de programação orientadas a objetos. Em vez de lidar diretamente com consultas SQL, os desenvolvedores podem trabalhar com objetos no código, e o ORM se encarrega de traduzir essas operações para consultas SQL. Aqui estão três exemplos populares de frameworks ORM:
+
+Hibernate: Hibernate é um framework ORM para Java. Ele mapeia objetos Java para tabelas no banco de dados e vice-versa. O Hibernate oferece uma poderosa funcionalidade de consulta, suporte a transações e facilita a manipulação de dados de maneira orientada a objetos.
+
+Entity Framework: O Entity Framework é um ORM desenvolvido pela Microsoft para a plataforma .NET. Ele simplifica o acesso a dados ao permitir que os desenvolvedores trabalhem com objetos e consultas LINQ (Language Integrated Query) em vez de SQL tradicional. O Entity Framework suporta vários bancos de dados relacionais.
+
+Django ORM: No contexto do framework web Django para Python, o Django ORM é um componente que facilita a interação com bancos de dados relacionais. Ele permite que os desenvolvedores definam modelos de dados em Python que são automaticamente mapeados para tabelas no banco de dados. O Django ORM suporta consultas usando a sintaxe do Django QuerySet, simplificando a manipulação de dados.
+
+__________________________________________
+
+###  O que é ORM, 3 exemplos:
+
+ORM, ou Mapeamento Objeto-Relacional, é uma técnica de programação que permite a interação mais intuitiva entre bancos de dados relacionais e linguagens de programação orientadas a objetos. Em vez de lidar diretamente com consultas SQL, os desenvolvedores podem trabalhar com objetos no código, e o ORM se encarrega de traduzir essas operações para consultas SQL. Aqui estão três exemplos populares de frameworks ORM:
+
+Hibernate: Hibernate é um framework ORM para Java. Ele mapeia objetos Java para tabelas no banco de dados e vice-versa. O Hibernate oferece uma poderosa funcionalidade de consulta, suporte a transações e facilita a manipulação de dados de maneira orientada a objetos.
+
+Entity Framework: O Entity Framework é um ORM desenvolvido pela Microsoft para a plataforma .NET. Ele simplifica o acesso a dados ao permitir que os desenvolvedores trabalhem com objetos e consultas LINQ (Language Integrated Query) em vez de SQL tradicional. O Entity Framework suporta vários bancos de dados relacionais.
+
+Django ORM: No contexto do framework web Django para Python, o Django ORM é um componente que facilita a interação com bancos de dados relacionais. Ele permite que os desenvolvedores definam modelos de dados em Python que são automaticamente mapeados para tabelas no banco de dados. O Django ORM suporta consultas usando a sintaxe do Django QuerySet, simplificando a manipulação de dados.
+
+__________________________________________
+
+###  O que é JPA e qual é a sua relação com os ORM’s:
+
+A JPA, ou Java Persistence API, é uma API de persistência de dados para a linguagem de programação Java. Ela define um conjunto de padrões e especificações para o mapeamento objeto-relacional (ORM) em aplicações Java. A JPA facilita a interação entre objetos Java e bancos de dados relacionais, fornecendo uma maneira padrão de realizar operações de persistência.
+
+__________________________________________
+
+###  O que é Spring Data:
+
+O Spring Data é um projeto dentro do ecossistema Spring que visa simplificar o desenvolvimento de aplicações que interagem com diferentes tipos de sistemas de armazenamento de dados, como bancos de dados relacionais, NoSQL e outros. Ele fornece uma abstração para o acesso a dados e facilita tarefas comuns, como consultas, atualizações e transações.
+
+__________________________________________
+
 Desenvolvido por [Thaís Alencar](https://www.linkedin.com/in/alencartha)
 
 
